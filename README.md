@@ -1,45 +1,25 @@
-# 👋🏾 Hey, I’m Kennedy Maombi
+# Hey there! 👋🏾 I'm Kennedy
 
-I’m a developer, designer, and creative builder who cares about using tech to push society forward. Whether I’m working on a mobile app to support people through grief, designing clean websites for mission-driven brands, or exploring new ways to build for privacy and emotion—I’m always trying to make something that matters.
+I build things with code, but more importantly, I build things that actually help people. Right now I'm knee-deep in a grief support app (because losing someone shouldn't mean losing your privacy), running a tiny creative agency, and generally trying to prove that technology can make the world a little less harsh.
 
----
+## What's keeping me busy lately
 
-### 🌱 What I’m Working On
+I've been pouring my heart into an app for the Alani Jones Foundation. It's basically a private journal for people working through grief. The whole thing lives on your phone, syncs quietly through iCloud, and gives folks a safe space to process without worrying about who's watching. Built it in SwiftUI because, honestly, native just feels better.
 
-- **Alani Jones Foundation App**  
-  A private grief journal built with SwiftUI. It stays on your device, backs up through iCloud, and helps people reflect and heal in their own time.
+On the side, I run Sovereign Creative Agency with some brilliant humans. We're small on purpose because it makes it easier to actually care about every project. We build websites and tools for people doing work that matters, not just work that pays. Check us out at [sovereigncreative.agency](https://sovereigncreative.agency) if you're curious.
 
-- **Sovereign Creative Agency**  
-  A small creative studio where I lead the dev side—building custom websites, products, and tools for people doing good work.  
-  👉 [sovereigncreative.agency](https://sovereigncreative.agency)
+## The stuff that gets me excited
 
----
+These days I'm obsessed with apps that work offline (because the internet shouldn't control your life), interfaces that feel like they were designed by humans for humans, and basically anything that puts privacy first. There's something magical about SwiftUI when you're trying to build something that feels native and natural.
 
-### 🛠️ What I'm Into Right Now
+I'm also really into this idea that tech can support mental health instead of destroying it. Wild concept, I know.
 
-- Building clean, native-feeling iOS apps with SwiftUI  
-- Offline-first and privacy-focused app design  
-- UI that feels human—not just functional  
-- Using tech to support mental health, creativity, and community
+## Want to build something together?
 
----
+I'm always down to collaborate on projects that make a difference. Whether that's a mobile app that solves a real problem, tools for creators who are changing the world, or open-source SwiftUI components that make other developers' lives easier, if your project puts people before profit, we should probably talk.
 
-### 🤝 I’m Down to Collaborate On
+## Let's connect
 
-- Mobile apps that make a difference  
-- Simple, thoughtful tools for creators or nonprofits  
-- Open-source SwiftUI stuff  
-- Anything that puts people first
+Drop me a line at kennedy@itskennedy.dev, check out my work at [itskennedy.dev](https://itskennedy.dev), or see what we're building at [sovereigncreative.agency](https://sovereigncreative.agency). If LinkedIn is your thing, you can find me at [kennedymaombi](https://linkedin.com/in/kennedymaombi).
 
----
-
-### 📬 Reach Me
-
-- **Email:** kennedy@itskennedy.dev  
-- **Portfolio:** [itskennedy.dev](https://itskennedy.dev)  
-- **Agency:** [sovereigncreative.agency](https://sovereigncreative.agency)  
-- **LinkedIn:** [linkedin.com/in/kennedymaombi](https://linkedin.com/in/kennedymaombi)
-
----
-
-> Building with purpose, not just for clicks.
+*Building with purpose, not just for clicks.*
