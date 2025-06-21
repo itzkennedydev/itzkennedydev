@@ -4,7 +4,7 @@ I build things with code, but more importantly, I build things that actually hel
 
 ## What's keeping me busy lately
 
-I've been pouring my heart into an app for the Alani Jones Foundation. It's basically a private journal for people working through grief. The whole thing lives on your phone, syncs quietly through iCloud, and gives folks a safe space to process without worrying about who's watching. Built it in SwiftUI because, honestly, native just feels better.
+I've been pouring my heart into an app for the Alani Jones Foundation. It's basically a private journal for people working through grief. The whole thing lives on your phone, syncs quietly through iCloud, and gives people a safe space to process without worrying about who's watching. Built it in SwiftUI because, honestly, native just feels better.
 
 On the side, I run Sovereign Creative Agency with some brilliant humans. We're small on purpose because it makes it easier to actually care about every project. We build websites and tools for people doing work that matters, not just work that pays. Check us out at [sovereigncreative.agency](https://sovereigncreative.agency) if you're curious.
 
