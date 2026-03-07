@@ -25,7 +25,7 @@ I want to build things that outlast me. Software that keeps helping people long 
 
 **Guardian Systems** · A school safety and communication ecosystem. The tools schools already use for daily announcements should be the same ones they reach for in an emergency. On-premise AI, real-time alerts, zero student data in the cloud.
 
-**The Alani Jones Foundation** · Technology for grief support. A SwiftUI journal app that gives people a private space to process loss, synced through iCloud, no accounts, no tracking. Proceeds from the merch storefront go back to the foundation.
+**The Alani Jones Foundation** · Helped bring this foundation to life from the beginning. Built the brand, the website, a SwiftUI grief journal app (private, iCloud-synced, no accounts), and a merch storefront where proceeds go back to supporting families through loss.
 
 **Varden** · A property management platform that makes renting less painful for everyone involved. Digital leases, automated rent collection, maintenance tracking. Web and mobile.
 
