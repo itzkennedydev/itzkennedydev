@@ -1,10 +1,18 @@
 # Kennedy Maombi
 
-Software engineer based in Chicago. I build web and mobile products with a focus on privacy, offline-first design, and the details that make an app feel good to use. I also run [Sovereign Creative Agency](https://sovereigncreative.agency), a small studio for local businesses.
+Software engineer based in Chicago, building web and mobile products. I want to make things that outlast me — software that keeps working, and helping people, long after I've moved on. I also run [Sovereign Creative Agency](https://sovereigncreative.agency), a small studio for local businesses.
 
 [itskennedy.dev](https://itskennedy.dev) · [LinkedIn](https://linkedin.com/in/kennedymaombi) · [kennedy@itskennedy.dev](mailto:kennedy@itskennedy.dev)
 
 ---
+
+## What I care about
+
+- Privacy as a default, not a premium feature.
+- Software that works offline, not only when conditions are perfect.
+- Interfaces designed with real attention to craft and detail.
+- Technology that supports mental health instead of competing for attention.
+- Cultural preservation treated as serious engineering work.
 
 ## Currently
 
