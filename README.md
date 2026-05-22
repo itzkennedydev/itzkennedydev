@@ -1,6 +1,6 @@
 # Kennedy Maombi
 
-Software engineer based in Chicago, building web and mobile products. I want to make things that outlast me — software that keeps working, and helping people, long after I've moved on. I also run [Sovereign Creative Agency](https://sovereigncreative.agency), a small studio for local businesses.
+Software engineer based in Chicago, building web and mobile products. I want to make things that outlast me — software that keeps working, and helping people, long after I've moved on. I also run Sovereign Creative Agency, a small studio for local businesses.
 
 [itskennedy.dev](https://itskennedy.dev) · [LinkedIn](https://linkedin.com/in/kennedymaombi) · [kennedy@itskennedy.dev](mailto:kennedy@itskennedy.dev)
 
@@ -27,3 +27,7 @@ Software engineer based in Chicago, building web and mobile products. I want to 
 **Mobile** — Swift, SwiftUI  
 **Web** — TypeScript, React, Next.js, Tailwind  
 **Backend** — Node.js, PostgreSQL, AWS
+
+---
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=itzkennedydev&theme=dark&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888)
