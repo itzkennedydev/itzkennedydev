@@ -1,33 +1,21 @@
 # Kennedy Maombi
 
-Software engineer based in Chicago, building web and mobile products. I want to make things that outlast me — software that keeps working, and helping people, long after I've moved on. I also run Sovereign Creative Agency, a small studio for local businesses.
+Software engineer in Chicago. I build web and mobile products, and I run [Sovereign Creative Agency](https://itskennedy.dev), a small studio for local businesses. Mostly I'm trying to make things that outlast me: software that keeps working, and keeps helping people, long after I've moved on.
 
 [itskennedy.dev](https://itskennedy.dev) · [LinkedIn](https://linkedin.com/in/kennedymaombi) · [kennedy@itskennedy.dev](mailto:kennedy@itskennedy.dev)
 
----
+## What I'm building right now
 
-## What I care about
+**Varden:** Property management for renters, landlords, and managers. Digital leases, rent collection, and maintenance, all in one place on web and mobile.
 
-- Privacy as a default, not a premium feature.
-- Software that works offline, not only when conditions are perfect.
-- Interfaces designed with real attention to craft and detail.
-- Technology that supports mental health instead of competing for attention.
-- Cultural preservation treated as serious engineering work.
+**Guardian Systems:** School safety and communication. On-premise AI and real-time alerts, with no student data in the cloud.
 
-## Currently
+**The Alani Jones Foundation:** Brand, website, and a private grief-journaling iOS app for a nonprofit that supports families through loss.
 
-**Guardian Systems** — School safety and communication. On-premise AI, real-time alerts, no student data in the cloud.
+## How I work
 
-**The Alani Jones Foundation** — Brand, website, and a private SwiftUI grief-journaling app for a nonprofit supporting families through loss.
-
-**Varden** — Property management on web and mobile. Digital leases, rent collection, maintenance tracking.
+I care about privacy by default, software that still works when the network doesn't, and the small details that make an interface feel considered instead of just shipped. To me, craft is the whole job, not a finishing touch.
 
 ## Stack
 
-**Mobile** — Swift, SwiftUI  
-**Web** — TypeScript, React, Next.js, Tailwind  
-**Backend** — Node.js, PostgreSQL, AWS
-
----
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=itzkennedydev&theme=dark&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888)
+Swift and SwiftUI on mobile. TypeScript, React, and Next.js on the web. Node, Postgres, and AWS underneath.
