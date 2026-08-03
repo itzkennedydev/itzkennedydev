@@ -1,6 +1,6 @@
 # Kennedy Maombi
 
-Software engineer in Chicago. I build web and mobile products, and I run [Sovereign Creative Agency](https://itskennedy.dev), a small studio for local businesses.
+Software engineer in Chicago. I build web and mobile products.
 
 [itskennedy.dev](https://itskennedy.dev) · [LinkedIn](https://linkedin.com/in/kennedymaombi) · [kennedy@itskennedy.dev](mailto:kennedy@itskennedy.dev)
 
@@ -16,7 +16,7 @@ Software engineer in Chicago. I build web and mobile products, and I run [Sovere
 
 **Gruby:** An iOS marketplace for home chefs. Browsing, orders, and messaging in SwiftUI. The [client app](https://github.com/itzkennedydev/gruby-ios) is public.
 
-Through the studio: sites, ordering flows, and booking tools for restaurants and local services around Chicago, plus internal dashboards that stay private.
+Client work: sites, ordering flows, and booking tools for restaurants and local services around Chicago, plus internal dashboards that stay private.
 
 ## What I believe
 
