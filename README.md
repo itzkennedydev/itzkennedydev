@@ -16,8 +16,6 @@ Software engineer in Chicago. I build web and mobile products, and I run [Sovere
 
 **Gruby:** An iOS marketplace for home chefs. Browsing, orders, and messaging in SwiftUI. The [client app](https://github.com/itzkennedydev/gruby-ios) is public.
 
-**Starters:** The [Next.js templates](https://github.com/itzkennedydev/starters) the studio runs on. E-commerce, dashboard, and landing page, all re-brandable through env vars.
-
 Through the studio: sites, ordering flows, and booking tools for restaurants and local services around Chicago, plus internal dashboards that stay private.
 
 ## How I work
