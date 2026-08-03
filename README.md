@@ -1,6 +1,6 @@
 # Kennedy Maombi
 
-Software engineer in Chicago. I build web and mobile products, and I run [Sovereign Creative Agency](https://itskennedy.dev), a small studio for local businesses. Mostly I'm trying to make things that outlast me: software that keeps working, and keeps helping people, long after I've moved on.
+Software engineer in Chicago. I build web and mobile products, and I run [Sovereign Creative Agency](https://itskennedy.dev), a small studio for local businesses.
 
 [itskennedy.dev](https://itskennedy.dev) · [LinkedIn](https://linkedin.com/in/kennedymaombi) · [kennedy@itskennedy.dev](mailto:kennedy@itskennedy.dev)
 
@@ -21,6 +21,8 @@ Through the studio: sites, ordering flows, and booking tools for restaurants and
 ## How I work
 
 I care about privacy by default, software that still works when the network doesn't, and the small details that make an interface feel considered instead of just shipped. To me, craft is the whole job, not a finishing touch.
+
+I want to create things that will outlive me. The greatest innovations have outlived their creators.
 
 ## Stack
 
