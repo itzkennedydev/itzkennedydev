@@ -18,11 +18,11 @@ Software engineer in Chicago. I build web and mobile products, and I run [Sovere
 
 Through the studio: sites, ordering flows, and booking tools for restaurants and local services around Chicago, plus internal dashboards that stay private.
 
-## How I work
+## What I believe
 
-I care about privacy by default, software that still works when the network doesn't, and the small details that make an interface feel considered instead of just shipped. To me, craft is the whole job, not a finishing touch.
+I care about privacy by default, software that still works when the network doesn't, and the small details that make an interface feel considered instead of just shipped. Craft isn't the finishing touch on the work. It is the work.
 
-I want to create things that will outlive me. The greatest innovations have outlived their creators.
+The things I admire most were made by people who knew they wouldn't get to keep them. The cathedral outlived the mason. The bridge outlived the engineer. The greatest innovations have always outlived their creators, and that's the measure I want for mine: not what they look like at launch, but what they're still quietly doing for people I'll never meet, long after I'm gone.
 
 ## Stack
 
