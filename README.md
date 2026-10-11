@@ -8,4 +8,4 @@ Right now that's Varden, property management for renters, landlords and managers
 
 Privacy by default. Software that still works when the network doesn't. The small details that make something feel considered instead of just shipped.
 
-[itskennedy.dev](https://itskennedy.dev) · [LinkedIn](https://linkedin.com/in/kennedymaombi) · [kennedy@itskennedy.dev](mailto:kennedy@itskennedy.dev)
+[kennedymaombi.com](https://kennedymaombi.com) · [LinkedIn](https://linkedin.com/in/kennedymaombi) · [itskennedy.dev@gmail.com](mailto:itskennedy.dev@gmail.com)
